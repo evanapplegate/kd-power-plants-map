@@ -21,6 +21,7 @@ h1 {
 #map {
     width: 100vw;
     height: calc(100vh - 140px);
+    background-color: #000;
 }
 
 .mapboxgl-ctrl-bottom-left,
