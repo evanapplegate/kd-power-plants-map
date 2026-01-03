@@ -12,8 +12,14 @@
     <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
 </head>
 <body>
-    <h1>Rendering a bunch of points</h1>
+    <h1 id="title">Rendering a bunch of points</h1>
     <div id="map"></div>
     <script src="script_alt_method.js"></script>
+    <script>
+        // Detect if embedded in iframe
+        if (window.self !== window.top) {
+            document.documentElement.classList.add('iframe-mode');
+        }
+    </script>
 </body>
 </html>

@@ -18,6 +18,16 @@ h1 {
     font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
 }
 
+/* Hide title when embedded in iframe */
+html.iframe-mode #title,
+html.iframe-mode h1 {
+    display: none;
+}
+
+html.iframe-mode #map {
+    height: 100vh;
+}
+
 #map {
     width: 100vw;
     height: calc(100vh - 140px);
