@@ -1,0 +1,3967 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "646",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3790246,
+          47.62553601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "645",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.459259,
+          34.63306919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "643",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5812622,
+          43.51682021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "642",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.05958158,
+          39.20582401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "641",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.26786099,
+          38.53871821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "640",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8535364,
+          40.55634731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "639",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7140929,
+          45.53989393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "638",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.66936445,
+          39.76544756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "637",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6969735,
+          41.23713181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "636",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05211022,
+          44.95313692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "634",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07821317,
+          38.93373927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "633",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1075869,
+          33.51045951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "632",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.31607972,
+          30.47091398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "631",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2478154,
+          38.71760171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "630",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.6833576,
+          64.84273934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "629",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.9680175,
+          36.04808099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "628",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.12128841,
+          38.91045981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "627",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64090829,
+          41.89852079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "626",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.80348691,
+          32.76804229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "625",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.69288017,
+          41.57709963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "624",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01109031,
+          39.97533865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "623",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.03985253,
+          40.67946304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "622",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.66122118,
+          30.41031063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "621",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6539766,
+          47.58896665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "620",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.9553599,
+          36.03742119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "619",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55614363,
+          35.58666626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "617",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.17488759,
+          39.38624801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "616",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4679085,
+          13.74067703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "615",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5176716,
+          38.58139539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "614",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.03319497,
+          33.05587706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "613",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.89217763,
+          35.96019012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "612",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.62293905,
+          34.75844246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "611",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3831535,
+          30.05604308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "610",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3677153,
+          47.57785968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "608",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00683749,
+          38.9886032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "607",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2426863,
+          43.59295415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "606",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.943044183,
+          51.76823165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "605",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.70956839,
+          32.44437639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "604",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5337919,
+          39.05408127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "603",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3740939,
+          47.61902557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "602",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.61330593,
+          38.95569671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "601",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.14695945,
+          36.77487723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "600",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3387283,
+          33.92725939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "599",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.676009,
+          40.20097954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "598",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3168819,
+          40.03102008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "597",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.91838664,
+          41.28116302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "595",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.32291353,
+          40.63715537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "594",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.84193249,
+          39.17233349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "592",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.83787273,
+          32.78850262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "591",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.4156031,
+          34.95662766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "590",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.04793243,
+          18.43023843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "589",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.44256766,
+          30.06599157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "588",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.41237187,
+          37.53455715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "587",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.33654887,
+          40.29704829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "586",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07459399,
+          38.82209763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "585",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.82581681,
+          41.15400064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "584",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.53357275,
+          51.87430204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "581",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50886196,
+          34.11842443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "580",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.61915324,
+          29.91772164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "579",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22642408,
+          40.09007155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "578",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.76048739,
+          32.44522791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "577",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.29866586,
+          41.10830852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "576",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.11636099,
+          19.41579865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "575",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7951553,
+          43.49916129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "573",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.35411294,
+          29.7262588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "572",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3592511,
+          40.91893283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "570",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.40751335,
+          39.82870549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "568",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45364015,
+          39.9426753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "567",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1899938,
+          40.10021699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "566",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6933622,
+          35.25153695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "565",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17673375,
+          41.01180211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "564",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.81587574,
+          32.75492998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "563",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.98278762,
+          30.34620342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "561",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3795896,
+          29.79593222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "559",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.76872858,
+          30.29639834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "557",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.48598698,
+          29.4116617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "556",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.43777624,
+          43.0456135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "555",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.95707911,
+          35.95828488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "554",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.74255047,
+          36.15867032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "553",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.79130421,
+          32.74363221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "551",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.52686095,
+          35.47160741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "550",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.09523678,
+          40.93749907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "548",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.74719542,
+          30.22732726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "547",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.61744447,
+          33.17991996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "545",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6786832,
+          40.25180839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "544",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.66524217,
+          35.74821085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "543",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7520631,
+          38.10676642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "542",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08184031,
+          40.3833016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "541",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25316421,
+          44.97436985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "539",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.29254177,
+          44.9438769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "537",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37608417,
+          33.75409718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "534",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4066691,
+          47.63628328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "533",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.73025158,
+          32.50085244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "532",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8277556,
+          40.41980288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "531",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4467421,
+          37.79020041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "530",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.60348675,
+          38.81241386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "529",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.169988748,
+          51.4772471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "527",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.41435134,
+          29.74354203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "526",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1492054,
+          36.19632979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "524",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.77034922,
+          35.78662542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "523",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.4792349,
+          48.95919529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "522",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.37432886,
+          29.77642459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "519",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8305025,
+          47.66266026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "518",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22802402,
+          45.00931919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "516",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35679941,
+          34.87165286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "515",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4545151,
+          48.76719229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "513",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.64197474,
+          35.79036534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "512",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1105282,
+          34.17888329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "509",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.56933967,
+          30.92401451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "508",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.539492,
+          38.55546093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "507",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.52334658,
+          39.05992963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "506",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5500996,
+          45.75987536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "505",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.51157467,
+          42.98988639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "503",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.802168,
+          38.84763494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "502",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.83054919,
+          29.76582444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "500",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.24841457,
+          38.6904359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "498",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.33179671,
+          29.8676106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "497",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.54881782,
+          33.72563994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "494",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2572449,
+          36.7362555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "492",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.36313303,
+          29.77435681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "491",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1548448,
+          38.61913156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "490",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8722416,
+          40.77196939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "489",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.70449876,
+          42.29907397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "488",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.22372453,
+          38.61317005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "487",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.83107729,
+          35.24602288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "485",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99059262,
+          40.74742635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "484",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9160457,
+          40.86744516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "483",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.02991799,
+          35.91434116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "482",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.28116014,
+          38.54836029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "481",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.079218,
+          49.25796442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "480",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6197154,
+          35.64948099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "478",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.78128834,
+          36.50823422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "477",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.294971,
+          37.7187495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "476",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1857313,
+          32.72872603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "474",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.93445214,
+          39.19385859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "469",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4861128,
+          35.11978745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "468",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.76667281,
+          30.29441166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "465",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7615424,
+          36.13612888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "462",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0555742,
+          41.92747757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "461",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01690092,
+          39.98285715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "459",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99675077,
+          40.74083634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "458",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.72229099,
+          32.43188594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "452",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91907887,
+          40.69860843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "449",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.45901104,
+          38.72848342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "448",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.62968514,
+          42.98712062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "447",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.65622741,
+          44.83358698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "444",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.06159064,
+          36.40893919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "443",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.95970141,
+          36.84411153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "441",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.17457195,
+          38.90746116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "436",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.07221892,
+          18.430548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "434",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98603023,
+          40.71303517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "433",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.39503013,
+          37.23028361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "432",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.55626653,
+          39.17375227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "431",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.43382251,
+          33.30072626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "428",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0439342,
+          40.29958957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "425",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6929736,
+          40.25103773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "422",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06555135,
+          38.93429303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "421",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.47269147,
+          33.88999311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "420",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.99348446,
+          36.82629368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "419",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.18261382,
+          38.08732199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "417",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.04514716,
+          32.57987831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "416",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.41650769,
+          30.0722603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "411",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2243017,
+          47.76692076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "410",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.77166547,
+          30.25951972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "409",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.29697852,
+          30.10460524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "404",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3643666,
+          30.66327168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "399",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61191896,
+          41.89704282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "396",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3857477,
+          37.80855394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "395",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8790507,
+          41.71783879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "393",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7633952,
+          30.2628792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "391",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2897519,
+          47.58524209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "389",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6722107,
+          40.23658027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "387",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7875118,
+          39.64161765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "380",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.99437374,
+          40.45918941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "377",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.42865392,
+          42.97849253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "376",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.07911793,
+          32.98570249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "374",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.36083739,
+          36.95602032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "371",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8653613,
+          21.33557629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "368",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4079522,
+          33.76499434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "367",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.91939565,
+          33.71631502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "365",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9183179,
+          40.36324836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "363",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.13870197,
+          39.79710974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "360",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9896789,
+          41.51984948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "356",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8187576,
+          40.65359592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "355",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.67647811,
+          33.06781396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "354",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.72764558,
+          30.24756378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "352",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3422725,
+          47.62949319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "349",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1636643,
+          49.27493389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "346",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38013253,
+          33.7398969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "342",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.79032119,
+          29.81352348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "340",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.75462483,
+          32.80627867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "339",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7697113,
+          47.68376083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "335",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.81037536,
+          32.77168971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "331",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50454402,
+          39.10239992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "330",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15916191,
+          40.95088927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "324",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.76222688,
+          32.80333642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "323",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.29331122,
+          42.9670633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "310",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.67635135,
+          41.48150171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "305",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8519112,
+          38.83390236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "303",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09353162,
+          42.36705147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "294",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.30112511,
+          40.92730415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "274",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.67127731,
+          41.59980898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "273",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6943571,
+          40.20218548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "270",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64305931,
+          41.86974712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "269",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.35906249,
+          39.5731562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "268",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.807919,
+          44.64060566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "264",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6878952,
+          35.21398249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "263",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.18272144,
+          39.77123545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "252",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8245803,
+          40.38015583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "231",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.86826274,
+          42.90307703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "227",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.523728364,
+          47.36652103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "222",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4158323,
+          28.54205518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "219",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.37562807,
+          29.74136577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "216",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.54234728,
+          35.46685362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "214",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05452286,
+          42.36267912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "208",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8236385,
+          33.69307541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "200",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3626393,
+          29.75912818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "196",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.34858431,
+          29.78433709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "185",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.21190889,
+          39.75181305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "183",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.33554065,
+          29.725795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "181",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8403151,
+          40.70549509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "179",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.14373586,
+          29.68821367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "170",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5339031,
+          37.11209432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "167",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.01121758,
+          35.90300748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "165",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.8180735,
+          35.99067102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "164",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9615358,
+          39.75406158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "157",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6930822,
+          40.02483472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "156",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.24566395,
+          36.1309089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "148",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0693857,
+          38.91906391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "146",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4024312,
+          43.54626022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "135",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8646771,
+          41.75942091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "133",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.83860216,
+          44.34627356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "132",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.97611779,
+          40.43000606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "131",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9803465,
+          41.02833461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "130",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93962235,
+          39.65791192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "127",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1500067,
+          36.18511546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "125",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.81706592,
+          32.76962998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "124",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2706912,
+          38.53794131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "123",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9594616,
+          36.58527238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "118",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.90066332,
+          42.92087846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "117",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.60611269,
+          41.60846863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "115",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16350327,
+          39.82923832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "109",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.10294406,
+          36.15028151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "107",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3788753,
+          32.84647094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "105",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3427991,
+          29.77015161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "99",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9194927,
+          37.30847403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "97",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6587734,
+          40.30221576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "95",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3802126,
+          41.54408322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "91",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.321248,
+          36.20605599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "88",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.93091545,
+          35.97814203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "87",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5795248,
+          33.43399567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "84",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27276292,
+          43.57124139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "81",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.735376,
+          40.2827286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "74",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7851948,
+          40.38894487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "70",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4428391,
+          31.24715701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "69",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.79128333,
+          40.06659921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "68",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.53590787,
+          36.21903483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "65",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5302286,
+          43.59560678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "61",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03413892,
+          38.88649565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "51",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.67483222,
+          41.47545167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "49",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7614306,
+          40.35829352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "48",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3503651,
+          42.11928643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "45",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2788284,
+          42.78507076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "44",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6581877,
+          43.67417025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "43",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0188301,
+          39.71947289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "41",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2511906,
+          34.12878337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "39",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.309014,
+          39.02989449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "35",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.343981,
+          47.62735685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "34",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6460271,
+          40.24553662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "33",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.41934194,
+          42.97703063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "32",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8124364,
+          39.57749373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "31",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.85318538,
+          38.84688065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "27",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6067056,
+          39.1405166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "23",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3334444,
+          47.62636565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "17",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.57536983,
+          41.66988374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "16",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9068654,
+          40.50621721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "10",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04267472,
+          38.97583511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "7",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8205761,
+          40.3548271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "4",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1112263,
+          33.44916665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "3",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7050069,
+          40.23310629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "2",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8989647,
+          40.55321404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "1",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.13270479,
+          38.24635885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID2": "0",
+        "Meetup_Status": "EXIT Member"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6929735,
+          39.99406028
+        ]
+      }
+    }
+  ]
+}

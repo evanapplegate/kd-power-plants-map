@@ -2,7 +2,8 @@
 const map = L.map('map', {
     center: [39.8, -98.5],
     zoom: 4,
-    zoomControl: false
+    zoomControl: false,
+    attributionControl: false
 });
 
 // Add dark tile layer
@@ -19,7 +20,7 @@ const markers = L.markerClusterGroup({
     animateAddingMarkers: true,
     
     // Cluster settings
-    maxClusterRadius: 80,
+    maxClusterRadius: 20,
     spiderfyOnMaxZoom: true,
     showCoverageOnHover: true,
     zoomToBoundsOnClick: true,
@@ -49,25 +50,30 @@ const markers = L.markerClusterGroup({
         return new L.DivIcon({
             html: '<div><span>' + childCount + '</span></div>',
             className: 'marker-cluster' + c,
-            iconSize: new L.Point(40, 40)
+            iconSize: new L.Point(20, 20)
         });
     }
 });
 
 // Load GeoJSON data and add markers
-fetch('./test_data.geojson')
-    .then(response => response.json())
+fetch('./input_data.geojson')
+    .then(response => {
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        return response.json();
+    })
     .then(data => {
         // Create markers from GeoJSON features
         const geoJsonLayer = L.geoJSON(data, {
             pointToLayer: function(feature, latlng) {
-                return L.circleMarker(latlng, {
-                    radius: 6,
-                    fillColor: '#00ffff',
-                    color: '#000000 ',
-                    weight: 2,
-                    opacity: 1,
-                    fillOpacity: 0.8
+                return L.marker(latlng, {
+                    icon: L.divIcon({
+                        className: 'individual-marker',
+                        html: '<div></div>',
+                        iconSize: [10, 10],
+                        iconAnchor: [5, 5]
+                    })
                 });
             },
             // No popups - removed onEachFeature
@@ -79,53 +85,69 @@ fetch('./test_data.geojson')
         // Add cluster group to map
         map.addLayer(markers);
         
-        console.log(`Loaded ${data.features.length} power plants`);
+        console.log(`Loaded ${data.features.length} points`);
     })
     .catch(error => {
         console.error('Error loading GeoJSON:', error);
+        console.error('Full error details:', JSON.stringify(error, Object.getOwnPropertyNames(error)));
     });
 
 // Add custom CSS for cluster styling
 const style = document.createElement('style');
 style.textContent = `
     .marker-cluster-small {
-        background-color: rgba(83, 183, 180, 0.8);
+        background-color: #ffffff;
     }
     .marker-cluster-small div {
-        background-color: rgba(83, 183, 180, 0.9);
+        background-color: #ffffff;
     }
     
     .marker-cluster-medium {
-        background-color: rgba(46, 142, 139, 0.8);
+        background-color: #ffffff;
     }
     .marker-cluster-medium div {
-        background-color: rgba(46, 142, 139, 0.9);
+        background-color: #ffffff;
     }
     
     .marker-cluster-large {
-        background-color: rgba(14, 81, 79, 0.8);
+        background-color: #ffffff;
     }
     .marker-cluster-large div {
-        background-color: rgba(14, 81, 79, 0.9);
+        background-color: #ffffff;
     }
     
     .marker-cluster {
     }
     
     .marker-cluster div {
-        width: 36px;
-        height: 36px;
-        margin-left: 2px;
-        margin-top: 2px;
+        width: 20px;
+        height: 20px;
+        margin-left: 0px;
+        margin-top: 0px;
         text-align: center;
-        border-radius: 50%;
-        font: 12px "Helvetica Neue", Arial, Helvetica, sans-serif;
+        border-radius: 0;
+        background-color: #ffffff;
+        border: 1px solid #000000;
+        font: 10px -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
         font-weight: bold;
     }
     
     .marker-cluster span {
-        line-height: 36px;
-        color: #ffffff;
+        line-height: 20px;
+        color: #000000;
+    }
+    
+    .individual-marker {
+        background: transparent;
+        border: none;
+    }
+    
+    .individual-marker div {
+        width: 10px;
+        height: 10px;
+        background-color: #ffffff;
+        border: 1px solid #000000;
+        border-radius: 0;
     }
 `;
 document.head.appendChild(style);
