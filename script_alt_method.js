@@ -20,7 +20,7 @@ const markers = L.markerClusterGroup({
     animateAddingMarkers: true,
     
     // Cluster settings
-    maxClusterRadius: 20,
+    maxClusterRadius: 10,
     spiderfyOnMaxZoom: true,
     showCoverageOnHover: true,
     zoomToBoundsOnClick: true,
